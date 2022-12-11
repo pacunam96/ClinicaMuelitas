@@ -1,0 +1,34 @@
+[2022-11-10 14:08:34] [ INFO ] [PacienteDAOH2:76] Iniciando la busqueda del paciente con email=prueba@gmail.com
+[2022-11-10 14:08:34] [ INFO ] [DomicilioDAOH2:57] Iniciando la busqueda de un domicilio con id=1
+[2022-11-11 18:55:51] [ INFO ] [OdontologoDAOH2:137] Iniciando el proceso de busqueda de todos los odontologos
+[2022-11-11 19:07:50] [ INFO ] [OdontologoDAOH2:137] Iniciando el proceso de busqueda de todos los odontologos
+[2022-11-11 19:08:32] [ INFO ] [OdontologoDAOH2:56] Iniciando el proceso de busqueda del odontologo con id igual= 1
+[2022-11-14 12:35:53] [ INFO ] [PacienteDAOH2:24] Iniciando la operación de guardado del paciente con apellido= Baspineiro
+[2022-11-14 12:35:53] [ INFO ] [DomicilioDAOH2:23] Inicio de una operación de guardar de domicilio
+[2022-11-14 12:39:03] [ INFO ] [PacienteDAOH2:24] Iniciando la operación de guardado del paciente con apellido= Baspineiro
+[2022-11-14 12:39:03] [ INFO ] [DomicilioDAOH2:23] Inicio de una operación de guardar de domicilio
+[2022-11-14 12:50:35] [ INFO ] [PacienteDAOH2:62] Iniciando la busqueda del paciente con id=2
+[2022-11-14 12:50:35] [ INFO ] [DomicilioDAOH2:57] Iniciando la busqueda de un domicilio con id=2
+[2022-11-14 12:50:35] [ INFO ] [PacienteDAOH2:96] Iniciando la actualización del paciente con id=2
+[2022-11-14 12:50:36] [ INFO ] [DomicilioDAOH2:87] Iniciando la actualización de un domicilio
+[2022-11-15 18:58:06] [ INFO ] [PacienteDAOH2:62] Iniciando la busqueda del paciente con id=1
+[2022-11-15 18:58:06] [ INFO ] [DomicilioDAOH2:57] Iniciando la busqueda de un domicilio con id=1
+[2022-11-15 18:58:06] [ INFO ] [OdontologoDAOH2:56] Iniciando el proceso de busqueda del odontologo con id igual= 1
+[2022-11-16 14:04:31] [ INFO ] [OdontologoDAOH2:137] Iniciando el proceso de busqueda de todos los odontologos
+[2022-11-16 14:09:04] [ INFO ] [OdontologoDAOH2:25] Iniciando el proceso de guardado del odontologo con nombre igual= Rodolfo
+[2022-11-16 14:09:10] [ INFO ] [OdontologoDAOH2:137] Iniciando el proceso de busqueda de todos los odontologos
+[2022-11-17 13:40:10] [ INFO ] [PacienteDAOH2:62] Iniciando la busqueda del paciente con id=1
+[2022-11-17 13:40:10] [ INFO ] [DomicilioDAOH2:57] Iniciando la busqueda de un domicilio con id=1
+[2022-11-17 13:40:10] [ INFO ] [OdontologoDAOH2:56] Iniciando el proceso de busqueda del odontologo con id igual= 1
+[2022-11-17 13:40:21] [ INFO ] [PacienteDAOH2:62] Iniciando la busqueda del paciente con id=1
+[2022-11-17 13:40:21] [ INFO ] [DomicilioDAOH2:57] Iniciando la busqueda de un domicilio con id=1
+[2022-11-17 13:40:21] [ INFO ] [OdontologoDAOH2:56] Iniciando el proceso de busqueda del odontologo con id igual= 1
+[2022-11-17 13:42:17] [ INFO ] [PacienteDAOH2:62] Iniciando la busqueda del paciente con id=1
+[2022-11-17 13:42:17] [ INFO ] [DomicilioDAOH2:57] Iniciando la busqueda de un domicilio con id=1
+[2022-11-17 13:42:17] [ INFO ] [OdontologoDAOH2:56] Iniciando el proceso de busqueda del odontologo con id igual= 1
+[2022-11-17 13:42:21] [ INFO ] [PacienteDAOH2:62] Iniciando la busqueda del paciente con id=1
+[2022-11-17 13:42:21] [ INFO ] [DomicilioDAOH2:57] Iniciando la busqueda de un domicilio con id=1
+[2022-11-17 13:42:21] [ INFO ] [OdontologoDAOH2:56] Iniciando el proceso de busqueda del odontologo con id igual= 1
+[2022-11-17 13:43:21] [ INFO ] [PacienteDAOH2:62] Iniciando la busqueda del paciente con id=1
+[2022-11-17 13:43:21] [ INFO ] [DomicilioDAOH2:57] Iniciando la busqueda de un domicilio con id=1
+[2022-11-17 13:43:21] [ INFO ] [OdontologoDAOH2:56] Iniciando el proceso de busqueda del odontologo con id igual= 1
