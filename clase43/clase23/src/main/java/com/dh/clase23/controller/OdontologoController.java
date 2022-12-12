@@ -33,7 +33,7 @@ public class OdontologoController {
         }
     }
 
-    @GetMapping
+    @GetMapping("/all")
     public ResponseEntity<List<Odontologo>> buscarOdontologos(){
         return ResponseEntity.ok(odontologoService.listarOdontologos());
     }
